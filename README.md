@@ -22,7 +22,7 @@ Berikut adalah alur kode (flowchart) dari program konversi suhu dari Celsius ke 
      - Konversi suhu ke Fahrenheit menggunakan rumus: \((C \times \frac{9}{5}) + 32\).
      - Tampilkan hasil konversi.
    - **Kasus 2 (Kelvin):** 
-     - Konversi suhu ke Kelvin menggunakan rumus: \(C + 273.15\).
+     - Konversi suhu ke Kelvin menggunakan rumus: \(C + 273\).
      - Tampilkan hasil konversi.
    - **Kasus 3 (Reamur):** 
      - Konversi suhu ke Reamur menggunakan rumus: \(C \times \frac{4}{5}\).
